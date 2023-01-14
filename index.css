@@ -31,6 +31,7 @@ body {
   flex-direction: row;
   font-size: 20px;
   padding: 15px;
+  Text-transform: capitalize;
 }
 
 .firstname {
@@ -58,5 +59,6 @@ body {
 .navigation>li>a {
   color: green;
   font-size: 20px;
-  text-decoration:
+  text-decoration: none;
+  Text-transform: capitalize;
 }
